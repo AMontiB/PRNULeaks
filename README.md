@@ -25,15 +25,15 @@ Contact: andrea.montibeller@unitn.it
 
 ## Requirements
 
-Refer to this github [repository]("https://github.com/AMontiB/AdaptivePRNUCameraAttribution") for code requirements and to use the radial correction inversion method used in our paper.
+Refer to this github [repository](https://github.com/AMontiB/AdaptivePRNUCameraAttribution) for code requirements and to use the radial correction inversion method used in our paper.
 
 ## List of Samsung A50 images affected by spikes
-[Here]("https://github.com/AMontiB/PRNULeaks/blob/main/") we report the images IDs affected by spikes in DFT. You can use ``dimples.m" to estimate them.
+[Here](https://github.com/AMontiB/PRNULeaks/blob/main/) we report the images IDs affected by spikes in DFT. You can use ``dimples.m" to estimate them.
 
 ![Spikes](https://github.com/AMontiB/PRNULeaks/blob/main/figures/Samsung_A50_spikes.png?raw=true)
 
 ## List of Post-Processed Images
-[Here]("https://github.com/AMontiB/PRNULeaks/blob/main/list_postprocessed_dev.csv") we report complete list of images post-processed out-camera. Use "Software_outcamera_images.py" and modify line 35.
+[Here](https://github.com/AMontiB/PRNULeaks/blob/main/list_postprocessed_dev.csv) we report complete list of images post-processed out-camera. Use "Software_outcamera_images.py" and modify line 35.
 
 
 ![Table](https://github.com/AMontiB/PRNULeaks/blob/main/figures/STPR_vs_NDR.png?raw=true)
