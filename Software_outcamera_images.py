@@ -33,7 +33,7 @@ def save_to_csv(csv_filename, image_paths):
 
 if __name__ == "__main__":
     root_path = #PATH2Dataset like "/media/mmlab/Datasets_4TB/FORLAB"
-    software_tags = ['Photos', 'MediaTek', 'VSCO', 'Picasa', 'picasa', 'Lightroom', 'Photoshop', 'photoshop',
+    software_tags = ['Photos', 'VSCO', 'Picasa', 'picasa', 'Lightroom', 'Photoshop', 'photoshop',
                     'photoscape', 'PhotoScape', 'lightroom', 'Darktable', 'darktable', 'GIMP', 'Shotwell']
     csv_filename = "list_outcamera_images.csv"
 
