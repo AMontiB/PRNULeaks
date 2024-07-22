@@ -33,5 +33,7 @@ Refer to this github [repository]("https://github.com/AMontiB/AdaptivePRNUCamera
 
 ## List of Post-Processed Images
 [Here]("https://github.com/AMontiB/AdaptivePRNUCameraAttribution/blob/main/list_postprocessed_dev") we report complete list of images post-processed out-camera. Use "Software_outcamera_images.py" and modify line 35.
+
+
 ![Table](https://github.com/AMontiB/PRNULeaks/blob/main/figures/STPR_vs_NDR.png?raw=true)
 
