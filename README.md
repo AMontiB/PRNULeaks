@@ -1,5 +1,12 @@
 # Shedding Light on some Leaks in PRNU-based Source Attribution
 
+This is the official code implementation of the paper ["Shedding Light on some Leaks in PRNU-based Source Attribution"](https://dl.acm.org/doi/pdf/10.1145/3658664.3659654)
+
+Authors: Andrea Montibeller, Roy Alia Asiku, Fernando Pérez-González, Giulia Boato
+
+Contact: andrea.montibeller@unitn.it
+
+## Abstract
 Forensic image source attribution aims at deciding whether a query
 image was taken by a specific camera. While various algorithms
 leveraging forensic traces have been proposed, the most effective
