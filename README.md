@@ -35,7 +35,7 @@ Contact: andrea.montibeller@unitn.it
 Refer to this github [repository](https://github.com/AMontiB/AdaptivePRNUCameraAttribution) for code requirements and to use the radial correction inversion method used in our paper.
 
 ## List of Samsung A50 images affected by spikes
-[Here](https://github.com/AMontiB/PRNULeaks/blob/main/) we report the images IDs affected by spikes in DFT. You can use ``dimples.m" to estimate the spikes in DFT.
+[Here](https://github.com/AMontiB/PRNULeaks/blob/main/) we report the list of images, used to compose the camera fingerprints of the Samsung A50, source of False Positives. These images, if used to compute the camera fingerprints of the three Samsung A50 devices, will not expose any spikes like those shown in the image below:
 
 ![Spikes](https://github.com/AMontiB/PRNULeaks/blob/main/figures/Samsung_A50_spikes.png?raw=true)
 
